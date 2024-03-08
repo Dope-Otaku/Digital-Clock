@@ -47,3 +47,9 @@
     filter: blur(20px);
     z-index: -1;
 }
+
+@media (max-width: 768px) {
+    #clock {
+        font-size: 4rem;
+    }
+}
